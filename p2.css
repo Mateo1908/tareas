@@ -5,7 +5,7 @@ body
 
 }
 
-.l2
+.r2
 {
    position: relative;
 	left: 450px;
@@ -20,7 +20,7 @@ body
 
 .v2{
    	position: absolute;
-	top: 450px;
+	top: 850px;
 	left: 540px;
 	background: #7f8c8d;
 	color: #fff;
@@ -34,3 +34,108 @@ body
 	text-decoration: none;
 	box-shadow: 0px 3px 0px #373c3c;
 }
+#l1
+{
+
+     position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: #7f8c8d;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top: -200px;
+	left: 50px;
+    font-family:Bahnschrift Light;
+    font-size:27px;
+
+}
+
+
+#l2
+{
+
+	position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: #7f8c8d;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top: -350px;
+	left: 600px;
+    font-family:Bahnschrift Light;
+    font-size:27px;
+}
+
+#l3
+{
+     width: 150px;
+    height: 150px;
+    background-color: #7f8c8d;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top: -500px;
+    left: 1200px;
+    font-family:Bahnschrift Light;
+    font-size:27px;
+
+}
+
+#l4
+{
+     width: 150px;
+    height: 150px;
+    background-color: #7f8c8d;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top: -250px;
+    left: 50px;
+    font-family:Bahnschrift Light;
+    font-size:27px;
+
+}
+
+#l5
+{
+	 width: 150px;
+    height: 150px;
+    background-color: #7f8c8d;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top: -400px;
+    left: 600px;
+    font-family:Bahnschrift Light;
+    font-size:27px;
+}
+
+#l6
+{
+	 width: 150px;
+    height: 150px;
+    background-color: #7f8c8d;
+    position:relative;
+    border-radius:20px;
+    border-style:double;
+    border-width:7px;
+    border-color:#292929;
+    top: -540px;
+    left: 1200px;
+    font-family:Bahnschrift Light;
+    font-size:27px;
+}
+
+
